@@ -36,7 +36,7 @@ end;
 
 procedure TForm1.Button2Click(Sender: TObject);
 begin
-
+{ Private declarations }
 Label1.Alignment:=taCenter;
 end;
 
